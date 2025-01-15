@@ -1,8 +1,41 @@
-With tables provided and created, populate tables and run reports to showcase the desired information.
-The academic status report will prompt the user to enter a letter, 'A' for active, 'AP' for academic probation, 'S' for suspended, 'E' for expelled. 
-It will then show only the firstName, lastName, id, gpa, and status of the students who belong to that category. 
+Academic Reports Management System
 
-The highest gpa report shows the students id's names, and gpas of students who have a higher than average gpa compared to the other students.
+This program is designed to manage and generate detailed reports based on student data. The system works with tables stored in a database, allowing users to populate, query, and report on various academic metrics.
 
+Features
 
-The student per course report shows the calculated number of students in each course, and will also show the grand total of unique students across all courses. 
+1. Academic Status Report
+
+Prompts the user to enter a letter representing a student's academic status:
+
+A: Active
+
+AP: Academic Probation
+
+S: Suspended
+
+E: Expelled
+
+Displays the following information for students in the selected category:
+
+First Name
+
+Last Name
+
+ID
+
+GPA
+
+Status
+
+2. Highest GPA Report
+
+Calculates the average GPA of all students.
+
+Displays the IDs, names, and GPAs of students whose GPA is higher than the calculated average.
+
+3. Students Per Course Report
+
+Shows the number of students enrolled in each course.
+
+Displays the grand total of unique students across all courses.
