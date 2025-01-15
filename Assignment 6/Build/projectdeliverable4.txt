@@ -1,0 +1,162 @@
+
+Table SIS_INSTRUCTOR_COURSE dropped.
+
+
+Table SIS_INSTRUCTOR dropped.
+
+
+Table SIS_STUDENT_COURSE_RECORD dropped.
+
+
+Table SIS_SCHEDULED_COURSE dropped.
+
+
+Table SIS_STUDENT_CREDENTIAL dropped.
+
+
+Table SIS_COURSES_WITHIN_CRED dropped.
+
+
+Table SIS_COURSE dropped.
+
+
+Table SIS_CREDENTIAL dropped.
+
+
+Table SIS_STUDENT dropped.
+
+
+Table SIS_STUDENT created.
+
+
+Table SIS_STUDENT altered.
+
+
+Table SIS_STUDENT altered.
+
+
+Table SIS_STUDENT altered.
+
+
+Table SIS_STUDENT altered.
+
+
+Table SIS_CREDENTIAL created.
+
+
+Table SIS_CREDENTIAL altered.
+
+
+Table SIS_CREDENTIAL altered.
+
+
+Table SIS_COURSE created.
+
+
+Table SIS_COURSE altered.
+
+
+Table SIS_COURSE altered.
+
+
+Table SIS_COURSE altered.
+
+
+Table SIS_COURSES_WITHIN_CRED created.
+
+
+Table SIS_COURSES_WITHIN_CRED altered.
+
+
+Table SIS_COURSES_WITHIN_CRED altered.
+
+
+Table SIS_COURSES_WITHIN_CRED altered.
+
+
+Table SIS_COURSES_WITHIN_CRED altered.
+
+
+Table SIS_STUDENT_CREDENTIAL created.
+
+
+Table SIS_STUDENT_CREDENTIAL altered.
+
+
+Table SIS_STUDENT_CREDENTIAL altered.
+
+
+Table SIS_STUDENT_CREDENTIAL altered.
+
+
+Table SIS_STUDENT_CREDENTIAL altered.
+
+
+Table SIS_SCHEDULED_COURSE created.
+
+
+Table SIS_SCHEDULED_COURSE altered.
+
+
+Table SIS_SCHEDULED_COURSE altered.
+
+
+Table SIS_SCHEDULED_COURSE altered.
+
+
+Table SIS_SCHEDULED_COURSE altered.
+
+
+Table SIS_SCHEDULED_COURSE altered.
+
+
+Table SIS_STUDENT_COURSE_RECORD created.
+
+
+Table SIS_STUDENT_COURSE_RECORD altered.
+
+
+Table SIS_STUDENT_COURSE_RECORD altered.
+
+
+Table SIS_STUDENT_COURSE_RECORD altered.
+
+
+Table SIS_STUDENT_COURSE_RECORD altered.
+
+
+Table SIS_STUDENT_COURSE_RECORD altered.
+
+
+Table SIS_STUDENT_COURSE_RECORD altered.
+
+
+Table SIS_INSTRUCTOR created.
+
+
+Table SIS_INSTRUCTOR altered.
+
+
+Table SIS_INSTRUCTOR altered.
+
+
+Table SIS_INSTRUCTOR altered.
+
+
+Table SIS_INSTRUCTOR altered.
+
+
+Table SIS_INSTRUCTOR altered.
+
+
+Table SIS_INSTRUCTOR_COURSE created.
+
+
+Table SIS_INSTRUCTOR_COURSE altered.
+
+
+Table SIS_INSTRUCTOR_COURSE altered.
+
+
+Table SIS_INSTRUCTOR_COURSE altered.
+

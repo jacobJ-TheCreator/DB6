@@ -1,0 +1,7 @@
+
+ STUDENTID FIRSTNAME  LASTNAME          GPA
+---------- ---------- ---------- ----------
+         5 Eve        Martinez          3.6
+         2 Bob        Lee               3.7
+         3 Charlie    Kim               3.8
+

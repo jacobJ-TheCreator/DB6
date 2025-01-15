@@ -1,0 +1,27 @@
+
+Course Code Course Name                                                                                          Students Enrolled
+----------- ---------------------------------------------------------------------------------------------------- -----------------
+CCSE101     Introduction to Data Science                                                                                         1
+CCSE102     Advanced Data Science                                                                                                1
+CCSE103     Database Systems                                                                                                     1
+CCSE104     Operating Systems                                                                                                    1
+CCSE105     Computer Networks                                                                                                    1
+CCSE106     Software Engineering                                                                                                 1
+CCSE107     Artificial Intelligence                                                                                              1
+CCSE108     HTML and CSS                                                                                                         1
+CCSE109     JavaScript Programming                                                                                               1
+CCSE110     Front-End Frameworks                                                                                                 1
+CCSE111     Cybersecurity Basics                                                                                                 1
+CCSE112     Network Defense                                                                                                      1
+CCSE113     Ethical Hacking                                                                                                      1
+CCSE114     Machine Learning                                                                                                     1
+CCSE115     Cloud Computing                                                                                                      1
+CCSE116     Database Design                                                                                                      1
+CCSE117     Data Structures                                                                                                      1
+CCSE118     Algorithms                                                                                                           1
+CCSE119     Network Administration                                                                                               1
+CCSE120     Advanced Web Development                                                                                             1
+Grand Total                                                                                                                      5
+
+21 rows selected. 
+

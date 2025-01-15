@@ -1,0 +1,39 @@
+Enter the student status to filter by (e.g., 'A' for active, 'AP' for academic probation, 'S' for suspended, 'E' for expelled):
+old:SELECT DISTINCT
+    INITCAP(first_name) firstName,
+    INITCAP(last_name) lastName,
+    studentID,
+    gpa GPA,
+    status academicStatus
+FROM 
+    SIS_Student 
+    JOIN sis_Student_Credential USING(studentID)
+WHERE 
+    UPPER(status) = UPPER('&student_status') --CHAT GPT WAS ALSO USED HERE
+ORDER BY
+    2,1
+new:SELECT DISTINCT
+    INITCAP(first_name) firstName,
+    INITCAP(last_name) lastName,
+    studentID,
+    gpa GPA,
+    status academicStatus
+FROM 
+    SIS_Student 
+    JOIN sis_Student_Credential USING(studentID)
+WHERE 
+    UPPER(status) = UPPER('a') --CHAT GPT WAS ALSO USED HERE
+ORDER BY
+    2,1
+
+FIRSTNAME       LASTNAME   STUDENTID        GPA ACADEMICSTATUS 
+--------------- ---------- --------- ---------- ---------------
+Diana           Harris             4        3.4 A              
+Alice           Johnson            1        3.5 A              
+Charlie         Kim                3        3.2 A              
+Charlie         Kim                3        3.8 A              
+Bob             Lee                2        3.7 A              
+Eve             Martinez           5        3.6 A              
+
+6 rows selected. 
+
